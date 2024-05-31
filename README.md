@@ -1,1 +1,2 @@
 # sql-challenge
+The ERD was created using QuickDBD. This is where the tables were created, primary keys and foreign keys were established, and data types for each column was set. The code was then exported to pgAdmin where I made several changes to it. Here I established some composite keys for certain tables and ran multiple queries where I had to combine the different tables to answer the questions.
